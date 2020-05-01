@@ -3,7 +3,7 @@
                 <div data-plugin="plyr" class="plyrist plyrist_audio plyr-list-popup bg-white b-t" id="plyrist">
                     <audio controls hidden></audio>
                     <div class="plyr-list" style="display:none">
-                        <div class="plyr-item" data-id="90835896" data-type="audio" data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/ba/b2/1d/bab21d96-ffab-78d6-5e4f-dd42e32562e4/mzaf_5313062365683687423.plus.aac.p.m4a" data-poster="assets/img/c1.jpg">
+                        <div class="plyr-item" data-id="90835896" data-type="audio" data-source="<?= $root; ?>voice/01.mp3" data-poster="assets/img/c1.jpg">
                             <div class="plyr-item-poster" style="background-image:url(assets/img/c1.jpg)"></div>
                             <div class="flex">
                                 <div class="plyr-item-title h-1x">Wake Me Up</div>

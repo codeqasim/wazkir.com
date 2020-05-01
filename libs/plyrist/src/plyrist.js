@@ -108,7 +108,7 @@ window.Plyrists = [];
     },
     _options: {
       theme: 0,
-      iconUrl: '../libs/plyrist/src/plyrist.svg',
+      iconUrl: 'libs/plyrist/src/plyrist.svg',
       autoplay: true,
       hideControls: false,
       fullscreen:{ enabled: false }
