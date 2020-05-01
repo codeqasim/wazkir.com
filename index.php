@@ -1,3 +1,4 @@
+<?php $title = "Listen Quran Online"; ?>
 <?php include "header.php"; ?>
 
             <!-- ############ Content START-->
@@ -9,18 +10,18 @@
                             <div class="col-sm-6">
                                 <div class="list-item list-overlay r mb-3">
                                     <div class="media media-4x3">
-                                        <a href="music.detail.html#" class="ajax media-content " style="background-image:url(assets/img/c10.jpg)">
+                                        <a href="music.detail.html#" class="ajax media-content " style="background-image:url(assets/img/bg.jpg)">
                                         </a>
                                         <div class="media-action ">
                                         </div>
                                     </div>
                                     <div class="list-content p-5">
                                         <div class="list-body ">
-                                            <a href="music.detail.html#" class="list-title title ajax h4 font-weight-bold">
-                                                Amazing songs
+                                            <a href="#" class="list-title title ajax h4 font-weight-bold">
+                                                Listen Quran Online
                                             </a>
                                             <a href="music.artist.html#" class="list-subtitle d-block text-muted  subtitle ajax h-1x">
-                                                Pharetra dapibus cursus tellus scelerisque sed morbi nulla rhoncus,
+                                                And seek peace from Allah.
                                             </a>
                                         </div>
                                     </div>
@@ -29,18 +30,18 @@
                             <div class="col-sm-6">
                                 <div class="list-item list-overlay r mb-3">
                                     <div class="media media-4x3">
-                                        <a href="music.detail.html#" class="ajax media-content " style="background-image:url(assets/img/c15.jpg)">
+                                        <a href="#" class="ajax media-content " style="background-image:url(assets/img/soon.jpg)">
                                         </a>
                                         <div class="media-action ">
                                         </div>
                                     </div>
                                     <div class="list-content p-5">
                                         <div class="list-body ">
-                                            <a href="music.detail.html#" class="list-title title ajax h4 font-weight-bold">
-                                                Weekly top albums
+                                            <a href="#" class="list-title title ajax h4 font-weight-bold">
+                                                Welcome
                                             </a>
-                                            <a href="music.artist.html#" class="list-subtitle d-block text-muted  subtitle ajax h-1x">
-                                                Porta neque, ultricies porta consectetur diam aenean volutpat mi
+                                            <a href="#" class="list-subtitle d-block text-muted  subtitle ajax h-1x">
+                                                To quranic listenting portal
                                             </a>
                                         </div>
                                     </div>
@@ -50,65 +51,66 @@
                         <div class="heading py-2 d-flex ">
                             <div>
                                 <div class="text-muted text-sm sr-item">Weekly</div>
-                                <h5 class="text-highlight sr-item">Top tracks</h5>
+                                <h5 class="text-highlight sr-item">Top Surahs</h5>
                             </div>
                             <span class="flex"></span>
                         </div>
                         <div class="slick slick-visible slick-arrow-top row sr-item" data-plugin="slick" data-option="{
-	  slidesToShow: 6,
-      slidesToScroll: 1,
-      dots: false,
-      rtl: false,
-      responsive: [
-	    {
-	      breakpoint: 1200,
-	      settings: {
-	        slidesToShow: 6
-	      }
-	    },
-	    {
-	      breakpoint: 920,
-	      settings: {
-	        slidesToShow: 4
-	      }
-	    },
-	    {
-	      breakpoint: 768,
-	      settings: {
-	        slidesToShow: 3
-	      }
-	    },
-	    {
-	      breakpoint: 576,
-	      settings: {
-	        slidesToShow: 2
-	      }
-	    }
-	  ]
-    }">
+                            slidesToShow: 6,
+                              slidesToScroll: 1,
+                              dots: false,
+                              rtl: false,
+                              responsive: [
+                             {
+                               breakpoint: 1200,
+                               settings: {
+                                 slidesToShow: 6
+                               }
+                             },
+                             {
+                               breakpoint: 920,
+                               settings: {
+                                 slidesToShow: 4
+                               }
+                             },
+                             {
+                               breakpoint: 768,
+                               settings: {
+                                 slidesToShow: 3
+                               }
+                             },
+                             {
+                               breakpoint: 576,
+                               settings: {
+                                 slidesToShow: 2
+                               }
+                             }
+                            ]
+                            }">
                             <div class="col-2" data-id="92570808" data-category="Pop" data-tag="Canada" data-source="https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/64/3d/c1/643dc113-29d1-08de-78e2-a4ab4c3f1730/mzaf_5420937162202173294.plus.aac.p.m4a">
                                 <div class="list-item slick-item r mb-3">
                                     <div class="media ">
-                                        <a href="music.detail.html#92570808" class="ajax media-content " style="background-image:url(assets/img/c1.jpg)">
+                                        <a href="music.detail.html#92570808" class="ajax media-content " style="background-image:url(assets/img/surahs/yaseen.jpg)">
                                         </a>
                                         <div class="media-action media-action-overlay">
-                                            <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
+                                            <!--<button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                 <i data-feather="heart" class="active-danger"></i>
-                                            </button>
+                                            </button>-->
                                             <button class="btn btn-raised btn-icon btn-rounded bg--white btn-play"></button>
+                                            <!--
                                             <button class="btn btn-icon no-bg no-shadow hide-row btn-more" data-toggle="dropdown">
                                                 <i data-feather="more-horizontal"></i>
                                             </button>
-                                            <div class="dropdown-menu dropdown-menu-right"></div>
+                                            <div class="dropdown-menu dropdown-menu-right"></div> -->
                                         </div>
                                     </div>
                                     <div class="list-content text-center">
                                         <div class="list-body ">
-                                            <a href="music.detail.html#92570808" class="list-title title ajax h-1x">
-                                                Rude
+                                            <a href="#" class="list-title title ajax h-1x">
+                                                Surat Yaseen
                                             </a>
-                                            <a href="music.artist.html#92570808" class="list-subtitle d-block text-muted  subtitle ajax h-1x">
-                                                Magic!
+                                            <a href="#" class="list-subtitle d-block text-muted  subtitle ajax h-1x">
+                                                Juz 21
                                             </a>
                                         </div>
                                     </div>

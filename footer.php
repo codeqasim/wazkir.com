@@ -7,7 +7,7 @@
                             <div class="plyr-item-poster" style="background-image:url(assets/img/c1.jpg)"></div>
                             <div class="flex">
                                 <div class="plyr-item-title h-1x">Surat Yaseen</div>
-                                <div class="plyr-item-author text-sm text-fade">Parah 21</div>
+                                <div class="plyr-item-author text-sm text-fade">Al-Fati?ah (1:1) - Al-Baqarah (2:74)</div>
                             </div>
                             <button class="plyr-item-close close text">&times;</button>
                         </div>
