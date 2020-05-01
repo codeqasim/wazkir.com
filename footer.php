@@ -3,11 +3,11 @@
                 <div data-plugin="plyr" class="plyrist plyrist_audio plyr-list-popup bg-white b-t" id="plyrist">
                     <audio controls hidden></audio>
                     <div class="plyr-list" style="display:none">
-                        <div class="plyr-item" data-id="90835896" data-type="audio" data-source="<?= $root; ?>voice/01.mp3" data-poster="assets/img/c1.jpg">
+                        <div class="plyr-item" data-id="90835896" data-type="audio" data-source="voice/01.mp3" data-poster="assets/img/c1.jpg">
                             <div class="plyr-item-poster" style="background-image:url(assets/img/c1.jpg)"></div>
                             <div class="flex">
-                                <div class="plyr-item-title h-1x">Wake Me Up</div>
-                                <div class="plyr-item-author text-sm text-fade">Avicii</div>
+                                <div class="plyr-item-title h-1x">Surat Yaseen</div>
+                                <div class="plyr-item-author text-sm text-fade">Parah 21</div>
                             </div>
                             <button class="plyr-item-close close text">&times;</button>
                         </div>
