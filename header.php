@@ -59,7 +59,7 @@
                                 <div class="p-3 nav-fold">
                                     <a href="#" class="btn btn-white btn-block text-align-auto" data-toggle="dropdown">
                                     <i data-feather="bar-chart-2" width="12" height="12"></i>
-                                    <span class="mx-1 hidden-folded">Basik top charts</span>
+                                    <span class="mx-1 hidden-folded">Top Suggestions</span>
                                     </a>
                                     <div class="dropdown-menu text-sm">
                                         <a class="dropdown-item" href="music.charts.html#pop">Pop chart</a>
