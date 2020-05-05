@@ -140,6 +140,7 @@
                                     .list-index .list-item:before { content: counter(li); counter-increment: li; width: 1rem; padding: 0; font-weight: 600; -ms-flex-negative: 0; flex-shrink: 0; }
                                     .list-style:nth-child(odd) { background: #F7F7F7; }
                                     .list-style { height: 90px; flex: 0 0 100%; max-width: 100%; }
+                                    .list-style:hover { background: #F2F2F2; }
                                     </style>
                                     <div class="list-content text-center">
                                         <div class="list-body ">
