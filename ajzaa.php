@@ -13,7 +13,7 @@
                             </div>
                             <span class="flex"></span>
                         </div>
-                        <div class="pos-rlt z-index-1">
+                        <div class="pos-rlt z-index-1" dir="rtl">
                             <div class="d-flex py-2 sr-item">
                                 <div class="dropdown my-2">
                                     <button class="btn btn-outline-primary sorting w-sm w-auto-xs text-align-auto" data-toggle="dropdown"><span>New</span></button>
@@ -115,17 +115,16 @@
                             </div>
                         </div>
                         <div class="row list list-row list-index hide">
-                            <?php 
-
-                            $url = 'assets/api/quran.json'; 
+                        <div class="col-12">
+                            <?php
+                            $url = 'assets/api/quran.json';
                             $data = file_get_contents($url); 
                             $qurandata = json_decode($data);
                             foreach ($qurandata as $qurandatile):?>
-                           <div class="col-12" data-id="<?= $qurandatile->id ?>" data-category="Electronic" data-tag="all" data-source="voice/<?=$qurandatile->voiceurl?>">
-                                <div class="list-item r">
-                                    <div class="media ">
-                                        <a href="music.detail.html#90835896" class="ajax media-content " style="background-image:url(../assets/img/c0.jpg)">
-                                        </a>
+                           <div class="list-style" data-id="<?= $qurandatile->id ?>" data-category="Electronic" data-tag="all" data-source="voice/<?=$qurandatile->voiceurl?>">
+                                <div class="list-item r float-right" dir="rtl">
+                                    <div class="media" style="margin-right:15px">
+                                        <a href="#" class="ajax media-content " style="background-image:url(../assets/img/c0.jpg)"></a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
                                                 <i data-feather="heart" class="active-danger"></i>
@@ -137,17 +136,22 @@
                                             <div class="dropdown-menu dropdown-menu-right"></div>
                                         </div>
                                     </div>
+                                    <style>
+                                    .list-index .list-item:before { content: counter(li); counter-increment: li; width: 1rem; padding: 0; font-weight: 600; -ms-flex-negative: 0; flex-shrink: 0; }
+                                    .list-style:nth-child(odd) { background: #F7F7F7; }
+                                    .list-style { height: 90px; flex: 0 0 100%; max-width: 100%; }
+                                    </style>
                                     <div class="list-content text-center">
                                         <div class="list-body ">
-                                            <a href="music.detail.html#90835896" class="list-title title ajax h-1x">
+                                            <a href="#" class="list-title title ajax h-1x text-right" style="height: 30px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; font-size: 20px; color: #000;">
                                                 <?=$qurandatile->juzname?>
                                             </a>
-                                            <a href="music.artist.html#90835896" class="list-subtitle d-block text-muted  subtitle ajax h-1x">
+                                            <a href="#" class="list-subtitle d-block text-muted  subtitle ajax h-1x text-right">
                                                 <?=$qurandatile->sorahname.'<br>'?>
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="list-action  show-row">
+                                    <!--<div class="list-action  show-row">
                                         <div class="d-flex align-items-center">
                                             <div class="px-3 text-sm d-none d-md-block num">640</div>
                                             <button class="btn btn-icon no-bg no-shadow" data-toggle-class>
@@ -158,11 +162,11 @@
                                             </button>
                                             <div class="dropdown-menu dropdown-menu-right"></div>
                                         </div>
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
-                        <?php endforeach; ?>
-                            
+                          <?php endforeach; ?>
+                         </div>
                         </div>
                         <div class="no-result hide">
                             <div class="p-5 text-center">
