@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "juzindex": 23,
+    "juzname": "ومالی",
+    "voiceurl": "036.mp3",
+    "sorahname": "یسین",
+    "titleurl": "yaseen.jpg"
+  },
+  {
+    "id": 2,
+    "juzindex": 27,
+    "juzname": "قال فما خطبكم",
+    "voiceurl": "055.mp3",
+    "sorahname": "الرحمٰن",
+    "titleurl": "rahman.jpg"
+  },
+  {
+    "id": 3,
+    "juzindex": 29,
+    "juzname": "تبٰرک الذی",
+    "voiceurl": "067.mp3",
+    "sorahname": "ملک",
+    "titleurl": "mulk.jpg"
+  },
+  {
+    "id": 4,
+    "juzindex": 27,
+    "juzname": "قال فما خطبكم",
+    "voiceurl": "056.mp3",
+    "sorahname": "الواقعۃ",
+    "titleurl": "waqiahh.jpg"
+  },
+  {
+    "id": 5,
+    "juzindex": 1,
+    "juzname": "آلم",
+    "voiceurl": "002.mp3",
+    "sorahname": "البقرۃ",
+    "titleurl": "baqarah.jpg"
+  },
+  {
+    "id": 6,
+    "juzindex": 1,
+    "juzname": "آلم",
+    "voiceurl": "001.mp3",
+    "sorahname": "الفاتحۃ",
+    "titleurl": "fateha.png"
+  },
+  {
+    "id": 7,
+    "juzindex": 21,
+    "juzname": "اتل مآ اوحی",
+    "voiceurl": "032.mp3",
+    "sorahname": "سجدۃ",
+    "titleurl": "sajda.jpg"
+  },
+  {
+    "id": 8,
+    "juzindex": 15,
+    "juzname": "سبحٰن الذی",
+    "voiceurl": "018.mp3",
+    "sorahname": " کہف",
+    "titleurl": "kahf.jpg"
+  },
+  {
+    "id": 9,
+    "juzindex": 25,
+    "juzname": "إليه يرد",
+    "voiceurl": "044.mp3",
+    "sorahname": "دخان",
+    "titleurl": "dukhan.jpg"
+  },
+  {
+    "id": 10,
+    "juzindex": 25,
+    "juzname": "إليه يرد",
+    "voiceurl": "045.mp3",
+    "sorahname": "الجاثیہ",
+    "titleurl": "jasia.jpg"
+  }
+]
