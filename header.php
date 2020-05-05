@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <title><?= $title; ?></title>
-        <meta name="description" content="Listen Quran Online" />
+        <meta name="description" content="Listen read and understand quran al kareem" />
         <meta name="keywords" content="<?php echo @$metakeywords; ?>">
         <link rel="shortcut icon" href="<?= $root.("assets/img/favicon.png"); ?>">
         <link rel="stylesheet" href="<?= $root; ?>assets/css/bootstrap.css" type="text/css" />
@@ -17,11 +17,11 @@
         <link rel="stylesheet" href="<?= $root; ?>assets/css/style.css" type="text/css" />
 
         <meta property="og:title" content=""/>
-        <meta property="og:site_name" content=""/>
-        <meta property="og:description" content=""/>
+        <meta property="og:site_name" content="wazkir.com"/>
+        <meta property="og:description" content="wazkir helping you to learn and read from quran al kareem"/>
         <meta property="og:image" content=""/>
-        <meta property="og:url" content=""/>
-        <meta property="og:publisher" content="" />
+        <meta property="og:url" content="<?= $root; ?>"/>
+        <meta property="og:publisher" content="WAZKIR" />
 
         <!-- endbuild -->
     </head>
@@ -34,8 +34,6 @@
                     <!-- brand -->
                     <a href="<?= $root; ?>" class="navbar-brand ">
                         <img class="loading-spin" src="<?= $root; ?>assets/img/favicon.png" alt="" width="32" height="32">
-
-
 
                        <!-- <svg width="32" height="32" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
                             <g class="loading-spin" style="transform-origin: 256px 256px">
