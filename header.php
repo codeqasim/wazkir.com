@@ -30,9 +30,9 @@
         <div id="aside" class="page-sidenav no-shrink bg-light nav-dropdown fade">
             <div class="sidenav h-100 modal-dialog bg-light">
                 <!-- sidenav top -->
-                <div class="navbar">
+                <div class="navbar" style="background:#62b375">
                     <!-- brand -->
-                    <a href="<?= $root; ?>" class="navbar-brand ">
+                    <a href="<?= $root; ?>" class="navbar-brand col-12 text-center">
                         <img class="loading-spin" src="<?= $root; ?>assets/img/favicon.png" alt="" width="32" height="32">
 
                        <!-- <svg width="32" height="32" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
@@ -42,7 +42,7 @@
                         </svg>-->
 
                         <!-- <img src="assets/img/logo.png" alt="..."> -->
-                        <span class="hidden-folded d-inline l-s-n-1x ">Wazkir</span>
+                        <span class="hidden-folded d-inline l-s-n-1x col-8" style="color:#fff">WAZKIR</span>
                     </a>
                     <!-- / brand -->
                 </div>
