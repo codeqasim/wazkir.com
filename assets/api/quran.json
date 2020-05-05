@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "juzindex": 1,
+    "juzname": "آلم",
+    "voiceurl": "01.mp3",
+    "sorahname": "الفاتحۃ، البقرۃ",
+    "titleurl": "#"
+  },
+  {
+    "id": 2,
+    "juzindex": 2,
+    "juzname": "سيقول السفهاء",
+    "voiceurl": "02.mp3",
+    "sorahname": "البقرۃ",
+    "titleurl": "#"
+  },
+  {
+    "id": 3,
+    "juzindex": 3,
+    "juzname": "تلك الرسل",
+    "voiceurl": "03.mp3",
+    "sorahname": "البقرۃ، آل عمران",
+    "titleurl": "#"
+  },
+  {
+    "id": 4,
+    "juzindex": 4,
+    "juzname": "لن تنالوا  ",
+    "voiceurl": "04.mp3",
+    "sorahname": "آل عمران، النسآء",
+    "titleurl": "#"
+  },
+  {
+    "id": 5,
+    "juzindex": 5,
+    "juzname": "والمحصنات",
+    "voiceurl": "05.mp3",
+    "sorahname": "النسآء",
+    "titleurl": "#"
+  },
+  {
+    "id": 6,
+    "juzindex": 6,
+    "juzname": "لا يحب الله",
+    "voiceurl": "06.mp3",
+    "sorahname": "النسآء، المآئدۃ",
+    "titleurl": "#"
+  },
+  {
+    "id": 7,
+    "juzindex": 7,
+    "juzname": "وإذا سمعوا",
+    "voiceurl": "07.mp3",
+    "sorahname": "المآئدۃ، الانعام",
+    "titleurl": "#"
+  },
+  {
+    "id": 8,
+    "juzindex": 8,
+    "juzname": "ولو أننا",
+    "voiceurl": "08.mp3",
+    "sorahname": "الانعام، الاعراف",
+    "titleurl": "#"
+  },
+  {
+    "id": 9,
+    "juzindex": 9,
+    "juzname": "قال الملأ",
+    "voiceurl": "09.mp3",
+    "sorahname": "الاعراف، الانفال",
+    "titleurl": "#"
+  },
+  {
+    "id": 10,
+    "juzindex": 10,
+    "juzname": "واعلموا",
+    "voiceurl": "10.mp3",
+    "sorahname": "الانفال، التوبۃ",
+    "titleurl": "#"
+  },
+  {
+    "id": 11,
+    "juzindex": 11,
+    "juzname": "يعتذرون",
+    "voiceurl": "11.mp3",
+    "sorahname": "التوبۃ، یونس، ھود",
+    "titleurl": "#"
+  },
+  {
+    "id": 12,
+    "juzindex": 12,
+    "juzname": "ومامن دابة",
+    "voiceurl": "12.mp3",
+    "sorahname": "ھود، یوسف",
+    "titleurl": "#"
+  },
+  {
+    "id": 13,
+    "juzindex": 13,
+    "juzname": "وما أبرئ ",
+    "voiceurl": "13.mp3",
+    "sorahname": "یوسف، الرعد، ابراھیم",
+    "titleurl": "#"
+  },
+  {
+    "id": 14,
+    "juzindex": 14,
+    "juzname": "ربما",
+    "voiceurl": "14.mp3",
+    "sorahname": "الحجر، النحل",
+    "titleurl": "#"
+  },
+  {
+    "id": 15,
+    "juzindex": 15,
+    "juzname": "سبحٰن الذیٓ",
+    "voiceurl": "15.mp3",
+    "sorahname": "الاسراء، الکہف",
+    "titleurl": "#"
+  },
+  {
+    "id": 16,
+    "juzindex": 16,
+    "juzname": "قال ألم",
+    "voiceurl": "16.mp3",
+    "sorahname": "الکہف، مریم، طٰہٰ",
+    "titleurl": "#"
+  },
+  {
+    "id": 17,
+    "juzindex": 17,
+    "juzname": "اقترب للناس",
+    "voiceurl": "17.mp3",
+    "sorahname": "الانبیآء، الحج",
+    "titleurl": "#"
+  },
+  {
+    "id": 18,
+    "juzindex": 18,
+    "juzname": "قد أفلح",
+    "voiceurl": "18.mp3",
+    "sorahname": "المؤمنون، النور، الفرقان",
+    "titleurl": "#"
+  },
+  {
+    "id": 19,
+    "juzindex": 19,
+    "juzname": "وقال الذين ",
+    "voiceurl": "19.mp3",
+    "sorahname": "الفرقان، الشعراء، النمل",
+    "titleurl": "#"
+  },
+  {
+    "id": 20,
+    "juzindex": 20,
+    "juzname": "امن خلق ",
+    "voiceurl": "20.mp3",
+    "sorahname": "النمل، القصص، العنکبوت",
+    "titleurl": "#"
+  },
+  {
+    "id": 21,
+    "juzindex": 21,
+    "juzname": "اتل مآ اوحی",
+    "voiceurl": "21.mp3",
+    "sorahname": "العنکبوت، الروم، لقمٰن، السجدۃ، الاحزاب",
+    "titleurl": "#"
+  },
+  {
+    "id": 22,
+    "juzindex": 22,
+    "juzname": "ومن يقنت",
+    "voiceurl": "22.mp3",
+    "sorahname": "الاحزاب، سبا، فاطر، یٰسٓ",
+    "titleurl": "#"
+  },
+  {
+    "id": 23,
+    "juzindex": 23,
+    "juzname": "ومالی",
+    "voiceurl": "23.mp3",
+    "sorahname": "یٰسٓ، الصّٰفّٰت، صٓ، الزمر",
+    "titleurl": "#"
+  },
+  {
+    "id": 24,
+    "juzindex": 24,
+    "juzname": "فمن أظلم",
+    "voiceurl": "24.mp3",
+    "sorahname": "الزمر، الغافر، فصلت",
+    "titleurl": "#"
+  },
+  {
+    "id": 25,
+    "juzindex": 25,
+    "juzname": "إليه يرد",
+    "voiceurl": "25.mp3",
+    "sorahname": "فصلت، الشُّورٰی، الزُّخرُف، الدُّخَان، الجاثیہ",
+    "titleurl": "#"
+  },
+  {
+    "id": 26,
+    "juzindex": 26,
+    "juzname": "حـم",
+    "voiceurl": "26.mp3",
+    "sorahname": "الاحقاف، محمد، الفتح، الحجرات، قٓ، الذّٰریٰت",
+    "titleurl": "#"
+  },
+  {
+    "id": 27,
+    "juzindex": 27,
+    "juzname": "قال فما خطبكم",
+    "voiceurl": "27.mp3",
+    "sorahname": "الذّٰریٰت، الطّور، النجم، القمر، الرحمٰن، الواقعۃ،  الحدید",
+    "titleurl": "#"
+  },
+  {
+    "id": 28,
+    "juzindex": 28,
+    "juzname": "قد سمع اللہ",
+    "voiceurl": "28.mp3",
+    "sorahname": "المجادلۃ، الحشر،  الممتحنۃ، الصّف، الجُمعۃ، المُنٰفِقُون،  التّغابن، الطّلاق، التحریم",
+    "titleurl": "#"
+  },
+  {
+    "id": 29,
+    "juzindex": 29,
+    "juzname": "تبٰرک الذی",
+    "voiceurl": "29.mp3",
+    "sorahname": "الملک، القلم،  الحاقہ، المعارج، نُوح، الجن، المزّمّل، المدّثّر، القیٰمۃ، الانسان، المرسلٰت",
+    "titleurl": "#"
+  },
+  {
+    "id": 30,
+    "juzindex": 30,
+    "juzname": "عمّ",
+    "voiceurl": "30.mp3",
+    "sorahname": "النَّبَاِ، النّٰزِعٰتِ، عَبَسَ،  التَّکوِیر،  الاِنفِطَار، المُطَفِّفِین، الاِنشِقَاق، البُرُوج، الطَّارق، الاَعلیٰ، الغَاشِیَۃ، الفجر، البلد،  الشَّمس، الَّیل، الضُّحٰی، ال<br>نشرح، التّین، العَلَق،  القدر، البیّنۃ، الزّلزال، العٰدیٰت،  القارعۃ، التّکاثُر،  العصر، الھُمَزَۃ، الفِیل، قُرَیش، المَاعُون، الکوثر، الکٰفرون، النَّصَر، اللَّھب، الاخلاص، الفَلَق،  النَّاس",
+    "titleurl": "#"
+  }
+]
