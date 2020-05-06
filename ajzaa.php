@@ -121,7 +121,7 @@
                             $data = file_get_contents($url); 
                             $qurandata = json_decode($data);
                             foreach ($qurandata as $qurandatile):?>
-                           <div class="list-style" data-id="<?= $qurandatile->id ?>" data-category="Electronic" data-tag="all" data-source="voice/<?=$qurandatile->voiceurl?>">
+                           <div class="list-style" data-id="<?= 'juz'.$qurandatile->id ?>" data-category="Electronic" data-tag="all" data-source="voice/<?=$qurandatile->voiceurl?>">
                                 <div class="list-item r float-right" dir="rtl">
                                     <div class="media" style="margin-right:15px">
                                         <a href="#" class="ajax media-content " style="background-image:url(../assets/img/c0.jpg)"></a>
