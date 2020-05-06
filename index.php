@@ -215,8 +215,8 @@
                                             </div>
                                             <div class="list-content p-4">
                                                 <div class="list-body ">
-                                                    <a href="music.detail.html#" class="list-title title ajax h5 font-weight-bold">
-                                                        Spring Festival
+                                                    <a href="#" class="list-title title ajax h5 font-weight-bold">
+                                                        Eid 2020
                                                     </a>
                                                 </div>
                                                 <div class="list-footer ">
@@ -228,15 +228,15 @@
                                     <div class="col-6">
                                         <div class="list-item list-overlay r mb-3 gd-danger">
                                             <div class="media media-4x3">
-                                                <a href="music.detail.html#" class="ajax media-content " style="background-image:url()">
+                                                <a href="#" class="ajax media-content " style="background-image:url()">
                                                 </a>
                                                 <div class="media-action ">
                                                 </div>
                                             </div>
                                             <div class="list-content p-4">
                                                 <div class="list-body ">
-                                                    <a href="music.detail.html#" class="list-title title ajax h5 font-weight-bold">
-                                                        Music Hub 2020
+                                                    <a href="#" class="list-title title ajax h5 font-weight-bold">
+                                                        Ramadhan Wallpapers
                                                     </a>
                                                 </div>
                                                 <div class="list-footer ">
@@ -248,12 +248,15 @@
                                 </div>
                                 <div class="heading py-2 d-flex ">
                                     <div>
-                                        <div class="text-muted text-sm sr-item">Blog</div>
-                                        <h5 class="text-highlight sr-item">News</h5>
+                                        <div class="text-muted text-sm sr-item">Books</div>
+                                        <h5 class="text-highlight sr-item">Collection</h5>
                                     </div>
                                     <span class="flex"></span>
                                 </div>
                                 <div class="row row-sm">
+                                <?php
+                                  for ($i = 0; $i < 4; $i++){
+                                    ?>
                                     <div class="col-4">
                                         <div class="list-item r">
                                             <div class="media media-16x9">
@@ -264,12 +267,12 @@
                                             </div>
                                             <div class="list-content ">
                                                 <div class="list-body ">
-                                                    <a href="music.detail.html#" class="list-title title ajax ">
-                                                        Et purus vulputate adipiscing
+                                                    <a href="#" class="list-title title ajax ">
+                                                        Saheeh Bukhari
                                                     </a>
                                                 </div>
                                                 <div class="list-footer ">
-                                                    <div class="text-muted text-sm">Feb 1, 1:36 am</div>
+                                                    <div class="text-muted text-sm">Read Now</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -284,12 +287,12 @@
                                             </div>
                                             <div class="list-content ">
                                                 <div class="list-body ">
-                                                    <a href="music.detail.html#" class="list-title title ajax ">
-                                                        Nibh massa sit morbi tortor
+                                                    <a href="#" class="list-title title ajax ">
+                                                        Tarmizee
                                                     </a>
                                                 </div>
                                                 <div class="list-footer ">
-                                                    <div class="text-muted text-sm">Feb 23, 5:19 am</div>
+                                                    <div class="text-muted text-sm">Read Now</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -297,23 +300,24 @@
                                     <div class="col-4">
                                         <div class="list-item r">
                                             <div class="media media-16x9">
-                                                <a href="music.detail.html#" class="ajax media-content " style="background-image:url(assets/img/b9.jpg)">
+                                                <a href="#" class="ajax media-content " style="background-image:url(assets/img/b9.jpg)">
                                                 </a>
                                                 <div class="media-action ">
                                                 </div>
                                             </div>
                                             <div class="list-content ">
                                                 <div class="list-body ">
-                                                    <a href="music.detail.html#" class="list-title title ajax ">
-                                                        Id sit vitae
+                                                    <a href="#" class="list-title title ajax ">
+                                                        Husn e Muslim
                                                     </a>
                                                 </div>
                                                 <div class="list-footer ">
-                                                    <div class="text-muted text-sm">Feb 26, 4:44 am</div>
+                                                    <div class="text-muted text-sm">Read Now</div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+                                    <?php } ?>
                                 </div>
                             </div>
                         </div>
