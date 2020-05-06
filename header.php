@@ -3,7 +3,7 @@
     $root.= str_replace(basename($_SERVER['SCRIPT_NAME']), '', $_SERVER['SCRIPT_NAME']);
     ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="">
     <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +27,7 @@
     </head>
     <body class="layout-row">
         <!-- ############ Aside START-->
-        <div id="aside" class="page-sidenav no-shrink bg-light nav-dropdown fade">
+        <div id="aside" class="page-sidenav no-shrink bg-light nav-dropdown fade" dir="rtl">
             <div class="sidenav h-100 modal-dialog bg-light">
                 <!-- sidenav top -->
                 <div class="navbar" style="background:#62b375">
@@ -49,7 +49,7 @@
                 <!-- Flex nav content -->
                 <div class="flex scrollable hover">
                     <div class="nav-active-text-primary" data-nav>
-                        <ul class="nav bg">
+                        <ul class="nav bg text-right">
                             <li class="nav-header hidden-folded pt-4">
                                 <span class="text-muted">Recommand</span>
                             </li>
@@ -95,42 +95,37 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="<?= $root; ?>reciters">
+                                <a href="<?= $root; ?>read-quran-online">
                                 <span class="nav-icon">
-                                <i data-feather="user"></i>
+                                <i data-feather="book"></i>
                                 </span>
-                                <span class="nav-text">Reciters</span>
+                                <span class="nav-text">Read Quran</span>
                                 </a>
                             </li>
                             <li class="nav-header d-flex nav-fold">
-                                <span class="py-2 text-muted hidden-folded">Your Playlist</span>
+                                <span class="py-2 text-muted hidden-folded">Suggested listen</span>
                                 <span class="flex hidden-folded"></span>
-                                <a class="text-md" data-toggle="tooltip" data-placement="right" title="Create playlist">
+                                <!--<a class="text-md" data-toggle="tooltip" data-placement="right" title="Create playlist">
                                 <i data-feather="plus" width="12" height="12"></i>
-                                </a>
+                                </a>-->
                             </li>
                             <li class="open">
                                 <ul class="nav nav-sub">
-                                    <li>
-                                        <a href="music.detail.html" class="px-2">
-                                        <span class="nav-text">Classic Jazz</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="music.detail.html#id=1" class="px-2">
-                                        <span class="nav-text">Hips</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="music.detail.html#id=2" class="px-2">
-                                        <span class="nav-text">50 top albums</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="music.detail.html#id=3" class="px-2">
-                                        <span class="nav-text">DJ 2018</span>
-                                        </a>
-                                    </li>
+
+                                <?php
+                                $url = 'assets/api/toptensurah.json';
+                                $data = file_get_contents($url);
+                                $characters = json_decode($data);
+                                foreach ($characters as $character):?>
+
+                                <li>
+                                <a href="#<?= $character->id ?>" class="px-2">
+                                <span class="nav-text"><?=$character->sorahname?></span>
+                                </a>
+                                </li>
+
+                                <?php endforeach; ?>
+
                                 </ul>
                             </li>
                         </ul>
