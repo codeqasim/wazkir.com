@@ -1,0 +1,914 @@
+[
+{
+    "id": 1,
+    "sorahindex": 1,
+    "sorahname": "الفاتحۃ",
+    "surahvoiceurl": "1.mp3",
+    "juzname": "الٰم",
+    "titleurl": "1.jpg"
+  },
+  {
+    "id": 2,
+    "sorahindex": 2,
+    "sorahname": "البقرۃ",
+    "surahvoiceurl": "2.mp3",
+    "juzname": "الٰم، سیقول السفھاء",
+    "titleurl": "2.jpg"
+  },
+  {
+    "id": 3,
+    "sorahindex": 3,
+    "sorahname": "آل عمران",
+    "surahvoiceurl": "3.mp3",
+    "juzname": "تلک الرسل",
+    "titleurl": "3.jpg"
+  },
+  {
+    "id": 4,
+    "sorahindex": 4,
+    "sorahname": "النسآء",
+    "surahvoiceurl": "4.mp3",
+    "juzname": "لن تنالو البر، والمحصنٰت",
+    "titleurl": "4.jpg"
+  },
+  {
+    "id": 5,
+    "sorahindex": 5,
+    "sorahname": "المآئدۃ",
+    "surahvoiceurl": "5.mp3",
+    "juzname": "لایحب اللہ",
+    "titleurl": "5.jpg"
+  },
+  {
+    "id": 6,
+    "sorahindex": 6,
+    "sorahname": "الانعام",
+    "surahvoiceurl": "6.mp3",
+    "juzname": "واذا سمعوا",
+    "titleurl": "6.jpg"
+  },
+  {
+    "id": 7,
+    "sorahindex": 7,
+    "sorahname": "الاعراف",
+    "surahvoiceurl": "7.mp3",
+    "juzname": "ولو اننا",
+    "titleurl": "7.jpg"
+  },
+  {
+    "id": 8,
+    "sorahindex": 8,
+    "sorahname": "الانفال",
+    "surahvoiceurl": "8.mp3",
+    "juzname": "وقال الملاء",
+    "titleurl": "8.jpg"
+  },
+  {
+    "id": 9,
+    "sorahindex": 9,
+    "sorahname": "التوبۃ",
+    "surahvoiceurl": "9.mp3",
+    "juzname": "واعلموا",
+    "titleurl": "9.jpg"
+  },
+  {
+    "id": 10,
+    "sorahindex": 10,
+    "sorahname": "یونس",
+    "surahvoiceurl": "10.mp3",
+    "juzname": "یعتذرون",
+    "titleurl": "10.jpg"
+  },
+  {
+    "id": 11,
+    "sorahindex": 11,
+    "sorahname": "ھود",
+    "surahvoiceurl": "11.mp3",
+    "juzname": "یعتذرون",
+    "titleurl": "11.jpg"
+  },
+  {
+    "id": 12,
+    "sorahindex": 12,
+    "sorahname": "یوسف",
+    "surahvoiceurl": "12.mp3",
+    "juzname": "ومامن دآبہ",
+    "titleurl": "12.jpg"
+  },
+  {
+    "id": 13,
+    "sorahindex": 13,
+    "sorahname": "الرعد",
+    "surahvoiceurl": "13.mp3",
+    "juzname": "وماابرءی",
+    "titleurl": "13.jpg"
+  },
+  {
+    "id": 14,
+    "sorahindex": 14,
+    "sorahname": "ابراھیم",
+    "surahvoiceurl": "14.mp3",
+    "juzname": "وماابرءی",
+    "titleurl": "14.jpg"
+  },
+  {
+    "id": 15,
+    "sorahindex": 15,
+    "sorahname": "الحجر",
+    "surahvoiceurl": "15.mp3",
+    "juzname": "وماابرءی، ربما",
+    "titleurl": "15.jpg"
+  },
+  {
+    "id": 16,
+    "sorahindex": 16,
+    "sorahname": "النحل",
+    "surahvoiceurl": "16.mp3",
+    "juzname": "ربما",
+    "titleurl": "16.jpg"
+  },
+  {
+    "id": 17,
+    "sorahindex": 17,
+    "sorahname": "الاسراء",
+    "surahvoiceurl": "17.mp3",
+    "juzname": "سبحن الذی",
+    "titleurl": "17.jpg"
+  },
+  {
+    "id": 18,
+    "sorahindex": 18,
+    "sorahname": "الکہف",
+    "surahvoiceurl": "18.mp3",
+    "juzname": "سبحن الذی",
+    "titleurl": "18.jpg"
+  },
+  {
+    "id": 19,
+    "sorahindex": 19,
+    "sorahname": "مریم",
+    "surahvoiceurl": "19.mp3",
+    "juzname": "قال الم",
+    "titleurl": "19.jpg"
+  },
+  {
+    "id": 20,
+    "sorahindex": 20,
+    "sorahname": "طٰہٰ",
+    "surahvoiceurl": "20.mp3",
+    "juzname": "قال الم",
+    "titleurl": "20.jpg"
+  },
+  {
+    "id": 21,
+    "sorahindex": 21,
+    "sorahname": "الانبیآء",
+    "surahvoiceurl": "21.mp3",
+    "juzname": "اقترب",
+    "titleurl": "21.jpg"
+  },
+  {
+    "id": 22,
+    "sorahindex": 22,
+    "sorahname": "الحج",
+    "surahvoiceurl": "22.mp3",
+    "juzname": "اقترب",
+    "titleurl": "22.jpg"
+  },
+  {
+    "id": 23,
+    "sorahindex": 23,
+    "sorahname": "المؤمنون",
+    "surahvoiceurl": "23.mp3",
+    "juzname": "قدافلح",
+    "titleurl": "23.jpg"
+  },
+  {
+    "id": 24,
+    "sorahindex": 24,
+    "sorahname": "النور",
+    "surahvoiceurl": "24.mp3",
+    "juzname": "قدافلح",
+    "titleurl": "24.jpg"
+  },
+  {
+    "id": 25,
+    "sorahindex": 25,
+    "sorahname": "الفرقان",
+    "surahvoiceurl": "25.mp3",
+    "juzname": "قدافلح",
+    "titleurl": "25.jpg"
+  },
+  {
+    "id": 26,
+    "sorahindex": 26,
+    "sorahname": "الشعراء",
+    "surahvoiceurl": "26.mp3",
+    "juzname": "وقال الذین",
+    "titleurl": "26.jpg"
+  },
+  {
+    "id": 27,
+    "sorahindex": 27,
+    "sorahname": "النمل",
+    "surahvoiceurl": "27.mp3",
+    "juzname": "وقال الذین، امن خلق",
+    "titleurl": "27.jpg"
+  },
+  {
+    "id": 28,
+    "sorahindex": 28,
+    "sorahname": "القصص",
+    "surahvoiceurl": "28.mp3",
+    "juzname": "امن خلق",
+    "titleurl": "28.jpg"
+  },
+  {
+    "id": 29,
+    "sorahindex": 29,
+    "sorahname": "العنکبوت",
+    "surahvoiceurl": "29.mp3",
+    "juzname": "امن خلق",
+    "titleurl": "29.jpg"
+  },
+  {
+    "id": 30,
+    "sorahindex": 30,
+    "sorahname": "الروم",
+    "surahvoiceurl": "30.mp3",
+    "juzname": "اتل مااوحی",
+    "titleurl": "30.jpg"
+  },
+  {
+    "id": 31,
+    "sorahindex": 31,
+    "sorahname": "لقمٰن",
+    "surahvoiceurl": "31.mp3",
+    "juzname": "اتل مااوحی",
+    "titleurl": "31.jpg"
+  },
+  {
+    "id": 32,
+    "sorahindex": 32,
+    "sorahname": "السجدۃ",
+    "surahvoiceurl": "32.mp3",
+    "juzname": "اتل مااوحی",
+    "titleurl": "32.jpg"
+  },
+  {
+    "id": 33,
+    "sorahindex": 33,
+    "sorahname": "الاحزاب",
+    "surahvoiceurl": "33.mp3",
+    "juzname": "اتل مااوحی، ومن یقنت",
+    "titleurl": "33.jpg"
+  },
+  {
+    "id": 34,
+    "sorahindex": 34,
+    "sorahname": "سبا",
+    "surahvoiceurl": "34.mp3",
+    "juzname": "ومن یقنت",
+    "titleurl": "34.jpg"
+  },
+  {
+    "id": 35,
+    "sorahindex": 35,
+    "sorahname": "فاطر",
+    "surahvoiceurl": "35.mp3",
+    "juzname": "ومن یقنت",
+    "titleurl": "35.jpg"
+  },
+  {
+    "id": 36,
+    "sorahindex": 36,
+    "sorahname": "یٰسٓ",
+    "surahvoiceurl": "36.mp3",
+    "juzname": "ومن یقنت، ومالی",
+    "titleurl": "36.jpg"
+  },
+  {
+    "id": 37,
+    "sorahindex": 37,
+    "sorahname": "الصّٰفّٰت",
+    "surahvoiceurl": "37.mp3",
+    "juzname": "ومالی",
+    "titleurl": "37.jpg"
+  },
+  {
+    "id": 38,
+    "sorahindex": 38,
+    "sorahname": "صٓ",
+    "surahvoiceurl": "38.mp3",
+    "juzname": "ومالی",
+    "titleurl": "38.jpg"
+  },
+  {
+    "id": 39,
+    "sorahindex": 39,
+    "sorahname": "الزمر",
+    "surahvoiceurl": "39.mp3",
+    "juzname": "ومالی، فمن اظلم",
+    "titleurl": "39.jpg"
+  },
+  {
+    "id": 40,
+    "sorahindex": 40,
+    "sorahname": "الغافر",
+    "surahvoiceurl": "40.mp3",
+    "juzname": "فمن اظلم",
+    "titleurl": "40.jpg"
+  },
+  {
+    "id": 41,
+    "sorahindex": 41,
+    "sorahname": "فصلت",
+    "surahvoiceurl": "41.mp3",
+    "juzname": "فمن اظلم",
+    "titleurl": "41.jpg"
+  },
+  {
+    "id": 42,
+    "sorahindex": 42,
+    "sorahname": "الشُّورٰی",
+    "surahvoiceurl": "42.mp3",
+    "juzname": "الیہ یرد",
+    "titleurl": "42.jpg"
+  },
+  {
+    "id": 43,
+    "sorahindex": 43,
+    "sorahname": "الزُّخرُف",
+    "surahvoiceurl": "43.mp3",
+    "juzname": "الیہ یرد",
+    "titleurl": "43.jpg"
+  },
+  {
+    "id": 44,
+    "sorahindex": 44,
+    "sorahname": "الدُّخَان",
+    "surahvoiceurl": "44.mp3",
+    "juzname": "الیہ یرد",
+    "titleurl": "44.jpg"
+  },
+  {
+    "id": 45,
+    "sorahindex": 45,
+    "sorahname": "الجاثیہ",
+    "surahvoiceurl": "45.mp3",
+    "juzname": "الیہ یرد",
+    "titleurl": "45.jpg"
+  },
+  {
+    "id": 46,
+    "sorahindex": 46,
+    "sorahname": "الاحقاف",
+    "surahvoiceurl": "46.mp3",
+    "juzname": "حٰم",
+    "titleurl": "46.jpg"
+  },
+  {
+    "id": 47,
+    "sorahindex": 47,
+    "sorahname": "محمد",
+    "surahvoiceurl": "47.mp3",
+    "juzname": "حٰم",
+    "titleurl": "47.jpg"
+  },
+  {
+    "id": 48,
+    "sorahindex": 48,
+    "sorahname": "الفتح",
+    "surahvoiceurl": "48.mp3",
+    "juzname": "حٰم",
+    "titleurl": "48.jpg"
+  },
+  {
+    "id": 49,
+    "sorahindex": 49,
+    "sorahname": "الحجرات",
+    "surahvoiceurl": "49.mp3",
+    "juzname": "حٰم",
+    "titleurl": "49.jpg"
+  },
+  {
+    "id": 50,
+    "sorahindex": 50,
+    "sorahname": "قٓ",
+    "surahvoiceurl": "50.mp3",
+    "juzname": "حٰم",
+    "titleurl": "50.jpg"
+  },
+  {
+    "id": 51,
+    "sorahindex": 51,
+    "sorahname": "الذّٰریٰت",
+    "surahvoiceurl": "51.mp3",
+    "juzname": "حٰم، قال فما خطبکم",
+    "titleurl": "51.jpg"
+  },
+  {
+    "id": 52,
+    "sorahindex": 52,
+    "sorahname": "الطّور",
+    "surahvoiceurl": "52.mp3",
+    "juzname": "قال فما خطبکم",
+    "titleurl": "52.jpg"
+  },
+  {
+    "id": 53,
+    "sorahindex": 53,
+    "sorahname": "النجم",
+    "surahvoiceurl": "53.mp3",
+    "juzname": "قال فما خطبکم",
+    "titleurl": "53.jpg"
+  },
+  {
+    "id": 54,
+    "sorahindex": 54,
+    "sorahname": "القمر",
+    "surahvoiceurl": "54.mp3",
+    "juzname": "قال فما خطبکم",
+    "titleurl": "54.jpg"
+  },
+  {
+    "id": 55,
+    "sorahindex": 55,
+    "sorahname": "الرحمٰن",
+    "surahvoiceurl": "55.mp3",
+    "juzname": "قال فما خطبکم",
+    "titleurl": "55.jpg"
+  },
+  {
+    "id": 56,
+    "sorahindex": 56,
+    "sorahname": "الواقعۃ",
+    "surahvoiceurl": "56.mp3",
+    "juzname": "قال فما خطبکم",
+    "titleurl": "56.jpg"
+  },
+  {
+    "id": 57,
+    "sorahindex": 57,
+    "sorahname": " الحدید",
+    "surahvoiceurl": "57.mp3",
+    "juzname": "قال فما خطبکم",
+    "titleurl": "57.jpg"
+  },
+  {
+    "id": 58,
+    "sorahindex": 58,
+    "sorahname": "المجادلۃ",
+    "surahvoiceurl": "58.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "58.jpg"
+  },
+  {
+    "id": 59,
+    "sorahindex": 59,
+    "sorahname": "الحشر",
+    "surahvoiceurl": "59.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "59.jpg"
+  },
+  {
+    "id": 60,
+    "sorahindex": 60,
+    "sorahname": " الممتحنۃ",
+    "surahvoiceurl": "60.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "60.jpg"
+  },
+  {
+    "id": 61,
+    "sorahindex": 61,
+    "sorahname": "الصّف",
+    "surahvoiceurl": "61.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "61.jpg"
+  },
+  {
+    "id": 62,
+    "sorahindex": 62,
+    "sorahname": "الجُمعۃ",
+    "surahvoiceurl": "62.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "62.jpg"
+  },
+  {
+    "id": 63,
+    "sorahindex": 63,
+    "sorahname": "المُنٰفِقُون",
+    "surahvoiceurl": "63.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "63.jpg"
+  },
+  {
+    "id": 64,
+    "sorahindex": 64,
+    "sorahname": " التّغابن",
+    "surahvoiceurl": "64.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "64.jpg"
+  },
+  {
+    "id": 65,
+    "sorahindex": 65,
+    "sorahname": "الطّلاق",
+    "surahvoiceurl": "65.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "65.jpg"
+  },
+  {
+    "id": 66,
+    "sorahindex": 66,
+    "sorahname": "التحریم",
+    "surahvoiceurl": "66.mp3",
+    "juzname": "قد سمع اللہ",
+    "titleurl": "66.jpg"
+  },
+  {
+    "id": 67,
+    "sorahindex": 67,
+    "sorahname": "الملک",
+    "surahvoiceurl": "67.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "67.jpg"
+  },
+  {
+    "id": 68,
+    "sorahindex": 68,
+    "sorahname": "القلم",
+    "surahvoiceurl": "68.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "68.jpg"
+  },
+  {
+    "id": 69,
+    "sorahindex": 69,
+    "sorahname": " الحاقہ",
+    "surahvoiceurl": "69.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "69.jpg"
+  },
+  {
+    "id": 70,
+    "sorahindex": 70,
+    "sorahname": "المعارج",
+    "surahvoiceurl": "70.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "70.jpg"
+  },
+  {
+    "id": 71,
+    "sorahindex": 71,
+    "sorahname": "نُوح",
+    "surahvoiceurl": "71.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "71.jpg"
+  },
+  {
+    "id": 72,
+    "sorahindex": 72,
+    "sorahname": "الجن",
+    "surahvoiceurl": "72.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "72.jpg"
+  },
+  {
+    "id": 73,
+    "sorahindex": 73,
+    "sorahname": "المزّمّل",
+    "surahvoiceurl": "73.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "73.jpg"
+  },
+  {
+    "id": 74,
+    "sorahindex": 74,
+    "sorahname": "المدّثّر",
+    "surahvoiceurl": "74.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "74.jpg"
+  },
+  {
+    "id": 75,
+    "sorahindex": 75,
+    "sorahname": "القیٰمۃ",
+    "surahvoiceurl": "75.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "75.jpg"
+  },
+  {
+    "id": 76,
+    "sorahindex": 76,
+    "sorahname": "الانسان",
+    "surahvoiceurl": "76.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "76.jpg"
+  },
+  {
+    "id": 77,
+    "sorahindex": 77,
+    "sorahname": "المرسلٰت",
+    "surahvoiceurl": "77.mp3",
+    "juzname": "تبٰرک الذی",
+    "titleurl": "77.jpg"
+  },
+  {
+    "id": 78,
+    "sorahindex": 78,
+    "sorahname": "النَّبَاِ",
+    "surahvoiceurl": "78.mp3",
+    "juzname": "عم",
+    "titleurl": "78.jpg"
+  },
+  {
+    "id": 79,
+    "sorahindex": 79,
+    "sorahname": "النّٰزِعٰتِ",
+    "surahvoiceurl": "79.mp3",
+    "juzname": "عم",
+    "titleurl": "79.jpg"
+  },
+  {
+    "id": 80,
+    "sorahindex": 80,
+    "sorahname": "عَبَسَ",
+    "surahvoiceurl": "80.mp3",
+    "juzname": "عم",
+    "titleurl": "80.jpg"
+  },
+  {
+    "id": 81,
+    "sorahindex": 81,
+    "sorahname": " التَّکوِیر",
+    "surahvoiceurl": "81.mp3",
+    "juzname": "عم",
+    "titleurl": "81.jpg"
+  },
+  {
+    "id": 82,
+    "sorahindex": 82,
+    "sorahname": " الاِنفِطَار",
+    "surahvoiceurl": "82.mp3",
+    "juzname": "عم",
+    "titleurl": "82.jpg"
+  },
+  {
+    "id": 83,
+    "sorahindex": 83,
+    "sorahname": "المُطَفِّفِین",
+    "surahvoiceurl": "83.mp3",
+    "juzname": "عم",
+    "titleurl": "83.jpg"
+  },
+  {
+    "id": 84,
+    "sorahindex": 84,
+    "sorahname": "الاِنشِقَاق",
+    "surahvoiceurl": "84.mp3",
+    "juzname": "عم",
+    "titleurl": "84.jpg"
+  },
+  {
+    "id": 85,
+    "sorahindex": 85,
+    "sorahname": "البُرُوج",
+    "surahvoiceurl": "85.mp3",
+    "juzname": "عم",
+    "titleurl": "85.jpg"
+  },
+  {
+    "id": 86,
+    "sorahindex": 86,
+    "sorahname": "الطَّارق",
+    "surahvoiceurl": "86.mp3",
+    "juzname": "عم",
+    "titleurl": "86.jpg"
+  },
+  {
+    "id": 87,
+    "sorahindex": 87,
+    "sorahname": "الاَعلیٰ",
+    "surahvoiceurl": "87.mp3",
+    "juzname": "عم",
+    "titleurl": "87.jpg"
+  },
+  {
+    "id": 88,
+    "sorahindex": 88,
+    "sorahname": "الغَاشِیَۃ",
+    "surahvoiceurl": "88.mp3",
+    "juzname": "عم",
+    "titleurl": "88.jpg"
+  },
+  {
+    "id": 89,
+    "sorahindex": 89,
+    "sorahname": "الفجر",
+    "surahvoiceurl": "89.mp3",
+    "juzname": "عم",
+    "titleurl": "89.jpg"
+  },
+  {
+    "id": 90,
+    "sorahindex": 90,
+    "sorahname": "البلد",
+    "surahvoiceurl": "90.mp3",
+    "juzname": "عم",
+    "titleurl": "90.jpg"
+  },
+  {
+    "id": 91,
+    "sorahindex": 91,
+    "sorahname": " الشَّمس",
+    "surahvoiceurl": "91.mp3",
+    "juzname": "عم",
+    "titleurl": "91.jpg"
+  },
+  {
+    "id": 92,
+    "sorahindex": 92,
+    "sorahname": "الَّیل",
+    "surahvoiceurl": "92.mp3",
+    "juzname": "عم",
+    "titleurl": "92.jpg"
+  },
+  {
+    "id": 93,
+    "sorahindex": 93,
+    "sorahname": "الضُّحٰی",
+    "surahvoiceurl": "93.mp3",
+    "juzname": "عم",
+    "titleurl": "93.jpg"
+  },
+  {
+    "id": 94,
+    "sorahindex": 94,
+    "sorahname": "الم نشرح",
+    "surahvoiceurl": "94.mp3",
+    "juzname": "عم",
+    "titleurl": "94.jpg"
+  },
+  {
+    "id": 95,
+    "sorahindex": 95,
+    "sorahname": "التّین",
+    "surahvoiceurl": "95.mp3",
+    "juzname": "عم",
+    "titleurl": "95.jpg"
+  },
+  {
+    "id": 96,
+    "sorahindex": 96,
+    "sorahname": "العَلَق",
+    "surahvoiceurl": "96.mp3",
+    "juzname": "عم",
+    "titleurl": "96.jpg"
+  },
+  {
+    "id": 97,
+    "sorahindex": 97,
+    "sorahname": " القدر",
+    "surahvoiceurl": "97.mp3",
+    "juzname": "عم",
+    "titleurl": "97.jpg"
+  },
+  {
+    "id": 98,
+    "sorahindex": 98,
+    "sorahname": "البیّنۃ",
+    "surahvoiceurl": "98.mp3",
+    "juzname": "عم",
+    "titleurl": "98.jpg"
+  },
+  {
+    "id": 99,
+    "sorahindex": 99,
+    "sorahname": "الزّلزال",
+    "surahvoiceurl": "99.mp3",
+    "juzname": "عم",
+    "titleurl": "99.jpg"
+  },
+  {
+    "id": 100,
+    "sorahindex": 100,
+    "sorahname": "العٰدیٰت",
+    "surahvoiceurl": "100.mp3",
+    "juzname": "عم",
+    "titleurl": "100.jpg"
+  },
+  {
+    "id": 101,
+    "sorahindex": 101,
+    "sorahname": " القارعۃ",
+    "surahvoiceurl": "101.mp3",
+    "juzname": "عم",
+    "titleurl": "101.jpg"
+  },
+  {
+    "id": 102,
+    "sorahindex": 102,
+    "sorahname": "التّکاثُر",
+    "surahvoiceurl": "102.mp3",
+    "juzname": "عم",
+    "titleurl": "102.jpg"
+  },
+  {
+    "id": 103,
+    "sorahindex": 103,
+    "sorahname": " العصر",
+    "surahvoiceurl": "103.mp3",
+    "juzname": "عم",
+    "titleurl": "103.jpg"
+  },
+  {
+    "id": 104,
+    "sorahindex": 104,
+    "sorahname": "الھُمَزَۃ",
+    "surahvoiceurl": "104.mp3",
+    "juzname": "عم",
+    "titleurl": "104.jpg"
+  },
+  {
+    "id": 105,
+    "sorahindex": 105,
+    "sorahname": "الفِیل",
+    "surahvoiceurl": "105.mp3",
+    "juzname": "عم",
+    "titleurl": "105.jpg"
+  },
+  {
+    "id": 106,
+    "sorahindex": 106,
+    "sorahname": "قُرَیش",
+    "surahvoiceurl": "106.mp3",
+    "juzname": "عم",
+    "titleurl": "106.jpg"
+  },
+  {
+    "id": 107,
+    "sorahindex": 107,
+    "sorahname": "المَاعُون",
+    "surahvoiceurl": "107.mp3",
+    "juzname": "عم",
+    "titleurl": "107.jpg"
+  },
+  {
+    "id": 108,
+    "sorahindex": 108,
+    "sorahname": "الکوثر",
+    "surahvoiceurl": "108.mp3",
+    "juzname": "عم",
+    "titleurl": "108.jpg"
+  },
+  {
+    "id": 109,
+    "sorahindex": 109,
+    "sorahname": "الکٰفرون",
+    "surahvoiceurl": "109.mp3",
+    "juzname": "عم",
+    "titleurl": "109.jpg"
+  },
+  {
+    "id": 110,
+    "sorahindex": 110,
+    "sorahname": "النَّصَر",
+    "surahvoiceurl": "110.mp3",
+    "juzname": "عم",
+    "titleurl": "110.jpg"
+  },
+  {
+    "id": 111,
+    "sorahindex": 111,
+    "sorahname": "اللَّھب",
+    "surahvoiceurl": "111.mp3",
+    "juzname": "عم",
+    "titleurl": "111.jpg"
+  },
+  {
+    "id": 112,
+    "sorahindex": 112,
+    "sorahname": "الاخلاص",
+    "surahvoiceurl": "112.mp3",
+    "juzname": "عم",
+    "titleurl": "112.jpg"
+  },
+  {
+    "id": 113,
+    "sorahindex": 113,
+    "sorahname": "الفَلَق",
+    "surahvoiceurl": "113.mp3",
+    "juzname": "عم",
+    "titleurl": "113.jpg"
+  },
+  {
+    "id": 114,
+    "sorahindex": 114,
+    "sorahname": " النَّاس",
+    "surahvoiceurl": "114.mp3",
+    "juzname": "عم",
+    "titleurl": "114.jpg"
+  }
+]
