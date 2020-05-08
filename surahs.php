@@ -112,7 +112,7 @@
                             <div class="col-4 col-sm-4 col-md-3 col-lg-2" data-id="<?= 'surah'. $surahlist->id ?>" data-category="all" data-tag="France" data-source="allsurahvoice/<?=$surahlist->surahvoiceurl?>">
                                 <div class="list-item r">
                                     <div class="media ">
-                                        <a href="music.detail.html#312058991" class="ajax media-content " style="background-image:url(assets/img/allsurahs/<?=$surahlist->titleurl?>">
+                                        <a href="music.detail.html#312058991" class="ajax media-content " style="background-image:url(assets/img/allsurah/<?=$surahlist->titleurl?>">
                                         </a>
                                         <div class="media-action media-action-overlay">
                                             <button class="btn btn-icon no-bg no-shadow hide-row" data-toggle-class>
