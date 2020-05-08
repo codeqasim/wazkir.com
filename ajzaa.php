@@ -17,100 +17,55 @@
                             <div class="d-flex py-2 sr-item">
                                 <div class="dropdown my-2">
                                     <button class="btn btn-outline-primary sorting w-sm w-auto-xs text-align-auto" data-toggle="dropdown"><span>New</span></button>
-                                    <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item sort" data-sort="num" data-order="desc">Popular</a>
-                                        <a href="#" class="dropdown-item sort" data-sort="author" data-order="desc">New</a>
-                                    </div>
+                                    <ul class="dropdown-menu" id="eFilter">
+                                        <li class="active" data-catego="">
+                                            <a>ALL</a>
+                                        </li>
+                                        <?php $url = 'assets/api/quran.json';
+                                        $data = file_get_contents($url);
+                                        $juzname = json_decode($data);
+                                        // print_r($characters);
+                                        // exit();
+                                        foreach ($juzname as $alljuzname):?>
+                                        <li data-catego="<?=$alljuzname->id?>">
+                                            <a><?=$alljuzname->id?></a>
+                                        </li>                    <?php endforeach; ?>
+                                    </ul>
                                 </div>
                                 <div class="flex"></div>
                                 <div class="dropdown my-2 mx-2">
-                                    <button class="btn btn-outline-primary sorting w-sm w-auto-xs text-align-auto" data-toggle="dropdown"><span>All countries</span></button>
-                                    <div class="dropdown-menu" id="filter-tag">
-                                        <a class="dropdown-item">All countries</a>
-                                        <a class="dropdown-item">Australia</a>
-                                        <a class="dropdown-item">Canada</a>
-                                        <a class="dropdown-item">France</a>
-                                        <a class="dropdown-item">Germany</a>
-                                        <a class="dropdown-item">Ireland</a>
-                                        <a class="dropdown-item">Netherlands</a>
-                                        <a class="dropdown-item">New Zealand</a>
-                                        <a class="dropdown-item">United Kingdom</a>
-                                        <a class="dropdown-item">USA</a>
-                                    </div>
+                                    <button class="btn btn-outline-primary sorting w-sm w-auto-xs text-align-auto" data-toggle="dropdown"><span>All Ajza</span></button>
+                                    <ul class="dropdown-menu" id="eFilter">
+                                        <li class="active" data-catego="">
+                                            <a>ALL</a>
+                                        </li>
+                                        <?php $url = 'assets/api/quran.json';
+                                        $data = file_get_contents($url);
+                                        $juzname = json_decode($data);
+                                        // print_r($characters);
+                                        // exit();
+                                        foreach ($juzname as $alljuzname):?>
+                                        <li data-catego="<?=$alljuzname->id?>">
+                                            <a><?=$alljuzname->juzname?></a>
+                                        </li>                    <?php endforeach; ?>
+                                    </ul>
                                 </div>
                                 <div class="dropdown my-2">
-                                    <button class="btn btn-outline-primary sorting w-sm w-auto-xs text-align-auto" data-toggle="dropdown"><span>All genres</span></button>
-                                    <div class="dropdown-menu dropdown-menu-right scrollable hover" id="filter-category" style="max-height: 310px">
-                                        <a href="#" class="dropdown-item">
-                                            All genres
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Acoustic
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Ambient
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Blues
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Classical
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Country
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Electronic
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Emo
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Folk
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Hardcore
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Hip-Hop
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Indie
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Jazz
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Latin
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Metal
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Pop
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Pop punk
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Punk
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Reggae
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            R&B
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Rock
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            Soul
-                                        </a>
-                                        <a href="#" class="dropdown-item">
-                                            World
-                                        </a>
-                                    </div>
+                                    <button class="btn btn-outline-primary sorting w-sm w-auto-xs text-align-auto" data-toggle="dropdown"><span>All Sura</span></button>
+                                    <ul class="dropdown-menu" id="eFilter">
+                                        <li class="active" data-catego="">
+                                            <a>ALL</a>
+                                        </li>
+                                        <?php $url = 'assets/api/quran.json';
+                                        $data = file_get_contents($url);
+                                        $juzname = json_decode($data);
+                                        // print_r($characters);
+                                        // exit();
+                                        foreach ($juzname as $alljuzname):?>
+                                        <li data-catego="<?=$alljuzname->id?>">
+                                            <a><?=$alljuzname->sorahname?></a>
+                                        </li>                    <?php endforeach; ?>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -121,7 +76,7 @@
                             $data = file_get_contents($url); 
                             $qurandata = json_decode($data);
                             foreach ($qurandata as $qurandatile):?>
-                           <div class="list-style" data-id="<?= 'juz'.$qurandatile->id ?>" data-category="Electronic" data-tag="all" data-source="voice/<?=$qurandatile->voiceurl?>">
+                           <div class="list-style" data-id="<?= 'juz'.$qurandatile->id ?>" data-category="Electronic" data-tag="all" data-source="voice/<?=$qurandatile->voiceurl?>"data-filter="<?=$qurandatile->id?>">
                                 <div class="list-item r float-right" dir="rtl">
                                     <div class="media" style="margin-right:15px">
                                         <a href="#" class="ajax media-content " style="background-image:url(../assets/img/c0.jpg)"></a>
